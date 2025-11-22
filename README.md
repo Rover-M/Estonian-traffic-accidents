@@ -1,6 +1,6 @@
 # Estonian-traffic-accidents
-Dataset 1 (11.02 KB): Data on traffic accidents with human victims. 
-Dataset 2 (11.74 KB): Traffic Accidents and Casualty Trends in Estonia
+Dataset 1 (11.02 MB): Data on traffic accidents with human victims. 
+Dataset 2 (11.74 kB): Traffic Accidents and Casualty Trends in Estonia
 
 Goal 1: Analyzing the dataset to find which factors
 (e.g., weather, time of day, road type, driver age, vehicle type, etc.)

@@ -16,3 +16,18 @@ Links:
 [2] https://www.kaggle.com/datasets/mohammadzisan/traffic-accidents-and-casualty-trends-in-estonia 
 
 
+## Quick Setup
+
+### Clone the repository
+
+### Create and activate the Conda environment
+
+in Anaconda Prompt:
+> Run these inside the repository folder:
+>
+> ```bash
+> conda env create -f environment.yml
+> conda activate estonian-traffic
+> ```
+
+Start Jupyter

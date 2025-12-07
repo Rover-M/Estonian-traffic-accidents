@@ -34,5 +34,5 @@ Traffic accidents are a major public safety issue in Estonia. Understanding the 
 ## How to Replicate the Analysis
 
 1. Clone the repository
-2. Install dependencies from requirements.txt
+2. Open Estonian-traffic-accidents.ipynb in Jupyter
 3. Run all cells in order to reproduce the full analysis and modeling pipeline

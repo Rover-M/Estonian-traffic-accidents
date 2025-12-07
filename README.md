@@ -1,5 +1,5 @@
 # Estonian Traffic Accidents
-## Authors: Mia Johanna Paas and Armin Liiv
+Authors: Mia Johanna Paas and Armin Liiv
 
 ## Motivation
 Traffic accidents are a major public safety issue in Estonia. Understanding the factors that contribute to accident severity and frequency can help policymakers, road safety experts, and the public to reduce risks and prevent fatalities.
